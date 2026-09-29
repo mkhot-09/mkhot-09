@@ -9,13 +9,17 @@ and further moving into *AI SECURITY*
 I'm currently learning by building small projects, working through TryHackMe, and documenting 
 what I find as I go.
 
-## What I've been working on
-- 🔍 [Phishing email analyser] — a Python script that analyses an email and gives a score based off the likelyhood of being a physing email
+## Projects Compleated:
+- 🔍 [Phishing email analyser] — a Python script that analyses an email and gives a score based on the likelihood of being a phishing email.
   
-- 🛠️ [Frequency analysis encryption cracker] — A Python script to crack a caeser cipher through freaquency analysis
+- 🛠️ [Frequency analysis encryption cracker] — A Python script to crack a Caesar cypher through a frequency analysis algorithm.
+
+## Projects im currently working on:
+- Personal Relationship Manager (PRM) - as part of my Computer Science Alevel course NEA. a program that allows you to store key information about freinds and automatically send reminders to check up on freinds who you havent contacted in a while.
 
 ## Currently learning
-- caeser cipher cracking
+- OOP
+- SQL
 
 ## Find me
 - LinkedIn: https://www.linkedin.com/in/muhammad-khot-85341536a/
